@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
