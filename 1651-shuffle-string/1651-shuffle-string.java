@@ -4,6 +4,6 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             arr[indices[i]]= s.charAt(i);
         }
-        return String.valueOf(arr); 
+        return new String(arr); 
     }
 }
