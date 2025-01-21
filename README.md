@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
+| [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/Sitharth338/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sitharth338/LeetCode/tree/master/0263-ugly-number) |
+| [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sitharth338/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Sitharth338/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sitharth338/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
