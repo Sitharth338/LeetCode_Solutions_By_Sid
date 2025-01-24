@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Sitharth338/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Sitharth338/LeetCode/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sitharth338/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Sitharth338/LeetCode/tree/master/0263-ugly-number) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
