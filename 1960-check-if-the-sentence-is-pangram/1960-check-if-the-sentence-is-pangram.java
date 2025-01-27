@@ -1,4 +1,5 @@
-class Solution {
+
+        class Solution {
     public boolean checkIfPangram(String sentence) {
         
   return checkifpangram(sentence);  }
@@ -15,3 +16,4 @@ class Solution {
 }
 
 }
+    
