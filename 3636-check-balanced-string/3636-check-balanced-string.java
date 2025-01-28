@@ -1,24 +1,16 @@
 class Solution {
     public boolean isBalanced(String num) {
-      //string to Array
-      int[] arr = new int[num.length()];
+      //string
+      int oddc=0;
+      int evenc=0;
       for(int i=0;i<num.length();i++){
-        arr[i] = Integer.parseInt(String.valueOf(num.charAt(i)));
-
+        if(i%2==0) oddc+=num.charAt(i)-'0';
+        else evenc+=num.charAt(i)-'0';
+  
       }
 
 
-        int even =0;
-        int odd =0;
-        for(int i=0;i<arr.length;i++){
-            if(i%2==0){
-              even = even + arr[i];
-            }
-            else{
-                odd = odd + arr[i];
-            }
-        }
-        if(even == odd){
+        if(evenc == oddc){
             return true;
         }
         return false;
