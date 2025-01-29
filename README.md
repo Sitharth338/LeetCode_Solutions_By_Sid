@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Sitharth338/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sitharth338/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -52,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sitharth338/LeetCode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sitharth338/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 ## Divide and Conquer
@@ -176,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
