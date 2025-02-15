@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2630-alternating-digit-sum](https://github.com/Sitharth338/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [3567-convert-date-to-binary](https://github.com/Sitharth338/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Sitharth338/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Sitharth338/LeetCode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sitharth338/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/Sitharth338/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Sitharth338/LeetCode/tree/master/3636-check-balanced-string) |
 ## Breadth-First Search
 |  |
