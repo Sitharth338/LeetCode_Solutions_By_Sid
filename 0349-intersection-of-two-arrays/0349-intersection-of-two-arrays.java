@@ -12,7 +12,8 @@ class Solution {
         int[] arr = new int[list.size()];
         int i=0;
         for(int num:list){
-            arr[i++]=num;
+            arr[i]=num;
+            i++;
         }
 
         return arr;
