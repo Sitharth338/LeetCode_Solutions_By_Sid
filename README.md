@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sitharth338/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sitharth338/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sitharth338/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
