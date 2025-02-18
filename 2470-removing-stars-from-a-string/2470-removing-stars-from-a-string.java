@@ -16,7 +16,6 @@ class Solution {
         for(int i=0;i<st.size();i++){
               sb.append(st.get(i));
         }
-
         return sb.toString();
     }
 }
