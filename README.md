@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sitharth338/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Sitharth338/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sitharth338/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Sitharth338/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sitharth338/LeetCode/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sitharth338/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sitharth338/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/Sitharth338/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Number Theory
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Sitharth338/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Sitharth338/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Sitharth338/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
