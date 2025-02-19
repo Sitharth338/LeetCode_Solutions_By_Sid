@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Sitharth338/LeetCode/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sitharth338/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sitharth338/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sitharth338/LeetCode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
