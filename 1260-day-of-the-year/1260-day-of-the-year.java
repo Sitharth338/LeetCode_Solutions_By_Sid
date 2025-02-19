@@ -2,10 +2,10 @@
 class Solution {
     public int dayOfYear(String date) {
         int[] dayofmonth = {31,28,31,30,31,30,31,31,30,31,30,31};
-
+        
         int year = Integer.valueOf(date.substring(0,4));
         int month = Integer.valueOf(date.substring(5, 7));
-        int day = Integer.valueOf(date.substring(8, 10));
+        int day = Integer.valueOf(date.substring(8));
 
         if(leapyear(year)){
             dayofmonth[1] = 29;  //feb leap
