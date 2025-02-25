@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sitharth338/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sitharth338/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sitharth338/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sitharth338/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Sitharth338/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sitharth338/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
 | ------- |
