@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sitharth338/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sitharth338/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sitharth338/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sitharth338/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sitharth338/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sitharth338/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sitharth338/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sitharth338/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
