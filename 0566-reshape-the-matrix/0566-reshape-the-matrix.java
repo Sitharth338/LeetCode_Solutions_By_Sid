@@ -5,16 +5,16 @@ class Solution {
         return mat;
         }
         int[][] arr = new int[r][c];
-           int a=0;
-           int b=0;
+           int row=0;
+           int col=0;
 
            for(int i=0;i<mat.length;i++){
             for(int j=0;j<mat[0].length;j++){
-              arr[a][b]=mat[i][j];
-              b++;
-              if(b==c){
-                b=0;
-                a++;
+              arr[row][col]=mat[i][j];
+              col++;
+              if(col==c){
+                col=0;
+                row++;
               }         
              }
         }
