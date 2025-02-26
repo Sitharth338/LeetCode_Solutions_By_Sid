@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Sitharth338/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Sitharth338/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sitharth338/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sitharth338/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sitharth338/LeetCode/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Sitharth338/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2058-concatenation-of-array) |
