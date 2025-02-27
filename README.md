@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Sitharth338/LeetCode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sitharth338/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sitharth338/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sitharth338/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Sitharth338/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sitharth338/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sitharth338/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Sitharth338/LeetCode/tree/master/0520-detect-capital) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sitharth338/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Sitharth338/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Sitharth338/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sitharth338/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/Sitharth338/LeetCode/tree/master/0861-flipping-an-image) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
