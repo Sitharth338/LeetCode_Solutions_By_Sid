@@ -6,7 +6,7 @@ class Solution {
                 sb.append(s.charAt(i));
             }
             else{
-                sb.append((char) (s.charAt(i-1)-'0'+s.charAt(i)));
+                sb.append((char) (s.charAt(i-1)+s.charAt(i)-'0'));
             }
         }
 
