@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Sitharth338/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Sitharth338/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/Sitharth338/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sitharth338/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
