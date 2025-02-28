@@ -23,7 +23,7 @@ class Solution {
             right--; // Move the right boundary left
 
             // Traverse from right to left (only if rows remain)
-            if (top <= bottom) {
+           if (top <= bottom) {
                 for (int i = right; i >= left; i--) {
                     list.add(matrix[bottom][i]);
                 }
@@ -36,7 +36,7 @@ class Solution {
                     list.add(matrix[i][left]);
                 }
                 left++; // Move the left boundary right
-            }
+           }
         }
 
         return list;
