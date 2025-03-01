@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Sitharth338/LeetCode/tree/master/0861-flipping-an-image) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sitharth338/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Sitharth338/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sitharth338/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Sitharth338/LeetCode/tree/master/0742-to-lower-case) |
+| [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0953-reverse-only-letters](https://github.com/Sitharth338/LeetCode/tree/master/0953-reverse-only-letters) |
