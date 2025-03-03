@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sitharth338/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sitharth338/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sitharth338/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Sitharth338/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sitharth338/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sitharth338/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Sitharth338/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
 | ------- |
