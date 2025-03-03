@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sitharth338/LeetCode/tree/master/0066-plus-one) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Sitharth338/LeetCode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sitharth338/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sitharth338/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sitharth338/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Sitharth338/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sitharth338/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sitharth338/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sitharth338/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
