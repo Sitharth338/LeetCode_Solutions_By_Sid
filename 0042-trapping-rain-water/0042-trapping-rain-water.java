@@ -12,8 +12,7 @@ class Solution {
             lmax = Math.max(lmax,height[left]);
             rmax = Math.max(rmax,height[right]);
             ans+=(lmax<rmax) ? lmax - height[left++] : rmax - height[right--];
-           // left++;
-          // right--;
+          
 
         }
 
