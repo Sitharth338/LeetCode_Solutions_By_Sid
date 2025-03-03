@@ -7,7 +7,7 @@ class Solution {
         int totalWater =0;
 
 
-        while(left<=right){
+        while(left<right){
 
             leftmax = Math.max(leftmax,height[left]);
             rightmax = Math.max(rightmax,height[right]);
