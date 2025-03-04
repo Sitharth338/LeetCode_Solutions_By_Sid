@@ -10,7 +10,7 @@ class Solution {
         String[] res = new String[n];
 
          for (int i = 0; i < n; i++) {
-            res[i] = map.get(heights[n - 1 - i]);
+            res[i] = map.get(heights[n - 1 - i]);  // heights are sorted so traverse from last to get the tallest person;
          }
          return res;
     }
