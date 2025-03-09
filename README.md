@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sitharth338/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2181-smallest-index-with-equal-value](https://github.com/Sitharth338/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sitharth338/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sitharth338/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sitharth338/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
