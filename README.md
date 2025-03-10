@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sitharth338/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Sitharth338/LeetCode/tree/master/3226-minimum-number-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Sitharth338/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Sitharth338/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Sitharth338/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Sitharth338/LeetCode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sitharth338/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Sitharth338/LeetCode/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sitharth338/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3379-score-of-a-string](https://github.com/Sitharth338/LeetCode/tree/master/3379-score-of-a-string) |
