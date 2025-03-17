@@ -7,6 +7,6 @@ class Solution {
             }
             set.add(c);
          }
-         return '\0';
+         return '\0';  //empty character
 }
 }
