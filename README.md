@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Sitharth338/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1944-truncate-sentence) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sitharth338/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sitharth338/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sitharth338/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sitharth338/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sitharth338/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sitharth338/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sitharth338/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/Sitharth338/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sitharth338/LeetCode/tree/master/0561-array-partition) |
+| [1961-maximum-ice-cream-bars](https://github.com/Sitharth338/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sitharth338/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Monotonic Stack
 |  |
