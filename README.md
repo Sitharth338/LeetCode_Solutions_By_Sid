@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Sitharth338/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sitharth338/LeetCode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
