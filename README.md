@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sitharth338/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3221-find-the-peaks](https://github.com/Sitharth338/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Sitharth338/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sitharth338/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sitharth338/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Sitharth338/LeetCode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3221-find-the-peaks](https://github.com/Sitharth338/LeetCode/tree/master/3221-find-the-peaks) |
 ## Trie
 |  |
 | ------- |
