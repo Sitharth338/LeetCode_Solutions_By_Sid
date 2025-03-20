@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sitharth338/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2737-row-with-maximum-ones](https://github.com/Sitharth338/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sitharth338/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Sitharth338/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sitharth338/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sitharth338/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/Sitharth338/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sitharth338/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
