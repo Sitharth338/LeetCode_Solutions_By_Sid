@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sitharth338/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sitharth338/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sitharth338/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sitharth338/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sitharth338/LeetCode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
