@@ -1,7 +1,7 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
         List<Integer> list = new ArrayList<>();
-        for(int i=1;i<=4000;i++){
+        for(int i=1;i<=3000;i++){
             list.add(i);
         }
         List<Integer> list2 = new ArrayList<>();
