@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sitharth338/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
+| [1319-unique-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
