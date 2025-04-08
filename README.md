@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Sitharth338/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sitharth338/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sitharth338/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sitharth338/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sitharth338/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
