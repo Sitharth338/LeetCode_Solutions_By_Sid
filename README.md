@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sitharth338/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/Sitharth338/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Sitharth338/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sitharth338/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Sitharth338/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sitharth338/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sitharth338/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Sitharth338/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
