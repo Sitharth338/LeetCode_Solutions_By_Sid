@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sitharth338/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Sitharth338/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1547-destination-city](https://github.com/Sitharth338/LeetCode/tree/master/1547-destination-city) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sitharth338/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sitharth338/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1547-destination-city](https://github.com/Sitharth338/LeetCode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sitharth338/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sitharth338/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Sitharth338/LeetCode/tree/master/1260-day-of-the-year) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sitharth338/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/Sitharth338/LeetCode/tree/master/1542-consecutive-characters) |
+| [1547-destination-city](https://github.com/Sitharth338/LeetCode/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sitharth338/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Sitharth338/LeetCode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sitharth338/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
