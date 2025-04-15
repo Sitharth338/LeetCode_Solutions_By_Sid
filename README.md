@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sitharth338/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Sitharth338/LeetCode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sitharth338/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sitharth338/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Sitharth338/LeetCode/tree/master/0520-detect-capital) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0551-student-attendance-record-i](https://github.com/Sitharth338/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sitharth338/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Sitharth338/LeetCode/tree/master/0742-to-lower-case) |
@@ -517,4 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Sitharth338/LeetCode/tree/master/2107-find-unique-binary-string) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
