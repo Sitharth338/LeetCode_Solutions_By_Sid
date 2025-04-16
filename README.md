@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Sitharth338/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sitharth338/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sitharth338/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3324-split-the-array](https://github.com/Sitharth338/LeetCode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sitharth338/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3463-alternating-groups-i](https://github.com/Sitharth338/LeetCode/tree/master/3463-alternating-groups-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sitharth338/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3324-split-the-array](https://github.com/Sitharth338/LeetCode/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sitharth338/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sitharth338/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sitharth338/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3324-split-the-array](https://github.com/Sitharth338/LeetCode/tree/master/3324-split-the-array) |
 | [3778-transform-array-by-parity](https://github.com/Sitharth338/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
