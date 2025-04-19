@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/Sitharth338/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Sitharth338/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/Sitharth338/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Sitharth338/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sitharth338/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Sitharth338/LeetCode/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sitharth338/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/Sitharth338/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sitharth338/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Sitharth338/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sitharth338/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
