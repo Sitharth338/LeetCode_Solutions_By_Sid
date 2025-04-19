@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sitharth338/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Sitharth338/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sitharth338/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sitharth338/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sitharth338/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Sitharth338/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sitharth338/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sitharth338/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Sitharth338/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2391-strong-password-checker-ii](https://github.com/Sitharth338/LeetCode/tree/master/2391-strong-password-checker-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Sitharth338/LeetCode/tree/master/2470-removing-stars-from-a-string) |
