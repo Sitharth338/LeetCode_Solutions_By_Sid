@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Sitharth338/LeetCode/tree/master/1260-day-of-the-year) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sitharth338/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Sitharth338/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sitharth338/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sitharth338/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sitharth338/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
