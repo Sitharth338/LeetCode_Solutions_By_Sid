@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sitharth338/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sitharth338/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Sitharth338/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sitharth338/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sitharth338/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Sitharth338/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Sitharth338/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sitharth338/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sitharth338/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3463-alternating-groups-i](https://github.com/Sitharth338/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sitharth338/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
