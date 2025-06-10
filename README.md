@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sitharth338/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sitharth338/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sitharth338/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sitharth338/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3324-split-the-array](https://github.com/Sitharth338/LeetCode/tree/master/3324-split-the-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sitharth338/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Sitharth338/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Sitharth338/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/Sitharth338/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Sitharth338/LeetCode/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sitharth338/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sitharth338/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Sitharth338/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Breadth-First Search
