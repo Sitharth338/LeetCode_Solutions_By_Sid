@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sitharth338/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sitharth338/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sitharth338/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sitharth338/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sitharth338/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sitharth338/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sitharth338/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sitharth338/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Sitharth338/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sitharth338/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sitharth338/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sitharth338/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sitharth338/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sitharth338/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sitharth338/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sitharth338/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sitharth338/LeetCode/tree/master/0151-reverse-words-in-a-string) |
