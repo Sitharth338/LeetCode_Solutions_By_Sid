@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Sitharth338/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sitharth338/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sitharth338/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Sitharth338/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/Sitharth338/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sitharth338/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sitharth338/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
