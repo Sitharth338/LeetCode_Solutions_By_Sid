@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sitharth338/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sitharth338/LeetCode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Sitharth338/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sitharth338/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sitharth338/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sitharth338/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Sitharth338/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sitharth338/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sitharth338/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sitharth338/LeetCode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Sitharth338/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sitharth338/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sitharth338/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sitharth338/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sitharth338/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sitharth338/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
