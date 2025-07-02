@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sitharth338/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sitharth338/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Sitharth338/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/Sitharth338/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Sitharth338/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Sitharth338/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
