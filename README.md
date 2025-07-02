@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sitharth338/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sitharth338/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sitharth338/LeetCode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Sitharth338/LeetCode/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/Sitharth338/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sitharth338/LeetCode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Sitharth338/LeetCode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Sitharth338/LeetCode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Sitharth338/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0551-student-attendance-record-i](https://github.com/Sitharth338/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sitharth338/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Sitharth338/LeetCode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0742-to-lower-case](https://github.com/Sitharth338/LeetCode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sitharth338/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/Sitharth338/LeetCode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sitharth338/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
