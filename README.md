@@ -673,4 +673,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Sitharth338/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Sitharth338/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sitharth338/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
