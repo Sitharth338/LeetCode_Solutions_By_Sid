@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sitharth338/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sitharth338/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sitharth338/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sitharth338/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Sitharth338/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sitharth338/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sitharth338/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sitharth338/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Sitharth338/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sitharth338/LeetCode/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sitharth338/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sitharth338/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sitharth338/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Sitharth338/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Sitharth338/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sitharth338/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sitharth338/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Sitharth338/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Sitharth338/LeetCode/tree/master/1260-day-of-the-year) |
