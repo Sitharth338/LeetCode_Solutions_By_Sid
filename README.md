@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sitharth338/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Sitharth338/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Sitharth338/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sitharth338/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sitharth338/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sitharth338/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Sitharth338/LeetCode/tree/master/0648-replace-words) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sitharth338/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sitharth338/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sitharth338/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sitharth338/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sitharth338/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sitharth338/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sitharth338/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sitharth338/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sitharth338/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sitharth338/LeetCode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
