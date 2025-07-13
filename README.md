@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sitharth338/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sitharth338/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -700,4 +701,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Sitharth338/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Sitharth338/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sitharth338/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sitharth338/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sitharth338/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sitharth338/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
