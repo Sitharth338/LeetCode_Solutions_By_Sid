@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sitharth338/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sitharth338/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sitharth338/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Sitharth338/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Sitharth338/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sitharth338/LeetCode/tree/master/0338-counting-bits) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sitharth338/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sitharth338/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sitharth338/LeetCode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Sitharth338/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sitharth338/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sitharth338/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sitharth338/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Sitharth338/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -713,4 +716,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sitharth338/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Sitharth338/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
