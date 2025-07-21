@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Sitharth338/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Sitharth338/LeetCode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sitharth338/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sitharth338/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sitharth338/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sitharth338/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/Sitharth338/LeetCode/tree/master/1542-consecutive-characters) |
