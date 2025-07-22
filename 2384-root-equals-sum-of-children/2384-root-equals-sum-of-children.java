@@ -16,6 +16,6 @@
 class Solution {
     public boolean checkTree(TreeNode root) {
         int sum = root.left.val + root.right.val;
-        return sum==root.val;
+        return sum == root.val;
     }
 }
