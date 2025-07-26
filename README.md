@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sitharth338/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sitharth338/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sitharth338/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Sitharth338/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sitharth338/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sitharth338/LeetCode/tree/master/0258-add-digits) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sitharth338/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sitharth338/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Sitharth338/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Sitharth338/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Sitharth338/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Sitharth338/LeetCode/tree/master/0260-single-number-iii) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Sitharth338/LeetCode/tree/master/0089-gray-code) |
 | [2107-find-unique-binary-string](https://github.com/Sitharth338/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Design
 |  |
