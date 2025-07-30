@@ -5,12 +5,11 @@ class Solution {
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
 
-    for(char i : s.toCharArray()){
-    if(map.get(i)==1){
-        return s.indexOf(i);
+        for(char i : s.toCharArray()){
+             if(map.get(i)==1){
+            return s.indexOf(i);
+        }
     }
-  }
-  return -1;
-
+     return -1;
     }
 }
