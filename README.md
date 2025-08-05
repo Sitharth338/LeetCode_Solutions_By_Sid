@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sitharth338/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Sitharth338/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/Sitharth338/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sitharth338/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Sitharth338/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sitharth338/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sitharth338/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sitharth338/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Sitharth338/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Sitharth338/LeetCode/tree/master/1511-count-number-of-teams) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sitharth338/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Sitharth338/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sitharth338/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Sitharth338/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sitharth338/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -776,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sitharth338/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sitharth338/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sitharth338/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sitharth338/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
