@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Sitharth338/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Sitharth338/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sitharth338/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sitharth338/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sitharth338/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sitharth338/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Sitharth338/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Sitharth338/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Sitharth338/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Sitharth338/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Sitharth338/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sitharth338/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sitharth338/LeetCode/tree/master/0338-counting-bits) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sitharth338/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Sitharth338/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sitharth338/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
