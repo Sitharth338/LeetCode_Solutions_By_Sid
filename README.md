@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Sitharth338/LeetCode/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/Sitharth338/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sitharth338/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sitharth338/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sitharth338/LeetCode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Sitharth338/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0807-custom-sort-string](https://github.com/Sitharth338/LeetCode/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/Sitharth338/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sitharth338/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sitharth338/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Sitharth338/LeetCode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Sitharth338/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Sitharth338/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Sitharth338/LeetCode/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/Sitharth338/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Sitharth338/LeetCode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Sitharth338/LeetCode/tree/master/0874-backspace-string-compare) |
