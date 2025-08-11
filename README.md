@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Sitharth338/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sitharth338/LeetCode/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Sitharth338/LeetCode/tree/master/1260-day-of-the-year) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sitharth338/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Sitharth338/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sitharth338/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sitharth338/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sitharth338/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sitharth338/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sitharth338/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
 |  |
 | ------- |
