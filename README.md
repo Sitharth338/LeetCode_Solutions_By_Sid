@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Sitharth338/LeetCode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sitharth338/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sitharth338/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sitharth338/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Sitharth338/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sitharth338/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sitharth338/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sitharth338/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Sitharth338/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sitharth338/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sitharth338/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
